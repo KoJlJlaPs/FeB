@@ -41,3 +41,12 @@ body {
 .header__btn-auth>li:not(:last-child) {
   margin-right: 64px;
 }
+
+.hero{
+ 
+  background-image: url(../img/hero-bg.svg);
+  background-repeat: no-repeat;
+}
+.main__hero{
+  
+}
